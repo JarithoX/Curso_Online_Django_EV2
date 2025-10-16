@@ -1,0 +1,9 @@
+asgiref==3.10.0
+Django==5.2.7
+sqlparse==0.5.3
+tzdata==2025.2
+# Recommended for API
+djangorestframework==3.14.0
+# Optional: CORS if frontend will call the API
+django-cors-headers==4.0.0
+# Add other packages you use here
